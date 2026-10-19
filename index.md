@@ -31,36 +31,36 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:**  Principles of Cybersecurity
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Five Top Viruses and Worms](/pdf/Cybersecurity-Ethics-Paper-2.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Principles of Cybersecurity
+-   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Object-Oriented Programming Ethics Paper](/pdf/OOP-Ethics-Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** Object-Oriented Programming
+-   **Grade:** A
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Cybersecurity Presentation 1](/pdf/Cybersecurity-Presentation-1.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Principles of Cybersecurity
+- **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Cybersecurity Presentation 2](/pdf/Cybersecurity-Presentation-2.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** Principles of Cybersecurity
+- **Grade:** A
 
 ---
 
