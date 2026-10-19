@@ -33,17 +33,17 @@ Ethics Papers
 
 ### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
 
--   **Class:**  Principles of Cybersecurity
+-   **Class:**  Principles of Cybersecurity - CSCI 405
 -   **Grade:** A
 
 ### [Five Top Viruses and Worms](/pdf/Cybersecurity-Ethics-Paper-2.pdf)
 
--   **Class:** Principles of Cybersecurity
+-   **Class:** Principles of Cybersecurity - CSCI 405
 -   **Grade:** A
 
 ### [Object-Oriented Programming Ethics Paper](/pdf/OOP-Ethics-Paper.pdf)
 
--   **Class:** Object-Oriented Programming
+-   **Class:** Object-Oriented Programming - CSCI 325
 -   **Grade:** A
 
 ---
@@ -51,15 +51,15 @@ Ethics Papers
 Presentations
 -------------
 
-### [Cybersecurity Presentation 1](/pdf/Cybersecurity-Presentation-1.pdf)
+### [Case of Gary McKinnon](/pdf/Cybersecurity-Presentation-1.pdf)
 
-- **Class:** Principles of Cybersecurity
+- **Class:** Principles of Cybersecurity - CSCI 405
 - **Grade:** A
 
 
-### [Cybersecurity Presentation 2](/pdf/Cybersecurity-Presentation-2.pdf)
+### [Story of Kevin Mitnick](/pdf/Cybersecurity-Presentation-2.pdf)
 
-- **Class:** Principles of Cybersecurity
+- **Class:** Principles of Cybersecurity - CSCI 405
 - **Grade:** A
 
 ---
