@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Final Project - Snake Game | CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Snake Homepage](images/Snake-Homepage.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project3)
