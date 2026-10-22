@@ -6,7 +6,7 @@ Run for a Cause 5k Website
 -   **Class:** User Interface Programming - CSCI 334
 -   **Grade:** A
 -   **Language(s):** JavaScript, CSS, C#
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [WebApp Group Project](https://github.com/pablo-843/WebApp-group-project)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -19,7 +19,7 @@ To run the website, download the project from the GitHub repository and open it 
 
 ## UI Design
 
-The website includes a homepage with information about the charity 5k and links to register or learn more. Once registered, users can access their dashboard to view their race schedule, route map, teammates, and personal information. Almost every program requires user interaction, even command-line programs. The admin dashboard displays registered runners and allows admins to manage user roles.
+The website includes a homepage with information about the charity 5k and links to register or learn more. Once registered, users can access their dashboard to view their race schedule, route map, teammates, and personal information. The admin dashboard displays registered runners and allows admins to manage user roles.
 
 ![5k Website Homepage](images/5k-Homepage.png)  
 Fig 1. Homepage of the Run for a Cause 5k Website.
