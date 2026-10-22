@@ -12,17 +12,17 @@ Programming Projects
 ![5k Website Homepage](images/5k-Homepage.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Final Project - Snake Game | CSCI 325](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Project 3 Title | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
