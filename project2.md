@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Run for a Cause 5k Website
+Java Snake Game
 ===============
 
 -   **Class:** Object-Oriented Programming - CSCI 325
