@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Run for a Cause 5k Website
+CIS Ubuntu Compliance Checker
 ===============
 
 -   **Class:** Survey of Scripting Languages - CSCI 301
@@ -21,7 +21,7 @@ Download the Bash script from the GitHub repository link. Then open Windows Powe
 
 The user runs the Bash script through a Linux terminal, and the program automatically performs five security checks. The results are displayed as True or Not True. Figure 1 shows the Bash script containing the commands used for the five security checks. Figure 2 shows the results displayed after running the script.
 
-![Bash Script](images/CIS-Bash-Script.ng)  
+![Bash Script](images/CIS-Bash-Script.png)  
 Fig 1. Bash Script containing the five CIS Benchmark security checks.
 
 ![Script Output](images/CIS-Script-Output.png)  
