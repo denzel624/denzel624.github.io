@@ -7,22 +7,27 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Run for a Cause 5k Website | CSCI 334](project1)
+### [Ace Senior Project | CSCI 497,498,499](project1)
+
+![Ace Senior Project](images/5k-Homepage.png)
+
+---
+### [Run for a Cause 5k Website | CSCI 334](project2)
 
 ![5k Website Homepage](images/5k-Homepage.png)
 
 ---
-### [Final Project - Snake Game | CSCI 325](project2)
+### [Final Project - Snake Game | CSCI 325](project3)
 
 ![Snake Homepage](images/Snake-Homepage.png)
 
 ---
-### [Final Project - CIS Ubuntu Compliance Checker | CSCI 301](project3)
+### [Final Project - CIS Ubuntu Compliance Checker | CSCI 301](project4)
 
 ![CIS Ubuntu Compliance Checker](images/CIS-Bash-Script.png)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Project 4 Title | CSCI 332](project5)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
