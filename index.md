@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Run for a Cause 5k Website | CSCI 334](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![5k Website Homepage](images/5k-Homepage.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
