@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Final Project - CIS Ubuntu Compliance Checker | CSCI 301](project3)
 
-![Project 3 Thumbnail Name](images/CIS-Bash-Script.png)
+![CIS Ubuntu Compliance Checker](images/CIS-Bash-Script.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project4)
