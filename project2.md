@@ -3,10 +3,10 @@
 Run for a Cause 5k Website
 ===============
 
--   **Class:** User Interface Programming - CSCI 334
+-   **Class:** Object-Oriented Programming - CSCI 325
 -   **Grade:** A
--   **Language(s):** JavaScript, CSS, C#
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Language(s):** Java
+-   **Source Code Repository:** [Snake Group Project](https://github.com/csu-cs/csci325-Fall25-Snake)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
