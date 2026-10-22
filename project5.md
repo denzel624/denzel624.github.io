@@ -13,24 +13,24 @@ This project involved developing a full-stack web application as part of a three
 
 ## Documentation
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/2025-Fall-ACE_Cyber_Project_Charter.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/2025-Fall-ACE_Cyber_Project_Research-Hypothesis.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/2025-Fall-ACE_Cyber_Project_Preliminary_Literature_Map.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/ACE-Cyber-Project-Research-Design-Template-v1.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/ACE_Cyber_Project-Testbed-Setup-&-Configuration-Template-v1.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/ACE-Cyber-Project-Data-Analysis-&-Synthesis-TEMPLATE-v1.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/ACE_Cyber_Project_Data-Acq&Sythentic-Data-Gen-Report_Template-v1.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/ACE-Cyber-Project-Test-Plan-Template-v1.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/ACE-Cyber-Project-Research-Notebook-TEMPLATE-v1.docx.pdf)
 
-### [Analysis of the Morris Worm Incident of 1988](/pdf/Cybersecurity-Ethics-Paper-1.pdf)
+### [Analysis of the Morris Worm Incident of 1988](/pdf/ACE-Cyber-Applied-Research-Project-Whitepaper-Template-v1.docx.pdf)
 
 [Back to Portfolio](./)
