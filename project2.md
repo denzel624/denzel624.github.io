@@ -6,22 +6,20 @@ Run for a Cause 5k Website
 -   **Class:** Object-Oriented Programming - CSCI 325
 -   **Grade:** A
 -   **Language(s):** Java
--   **Source Code Repository:** [Snake Group Project](https://github.com/csu-cs/csci325-Fall25-Snake)  
+-   **Source Code Repository:** [Java Snake Game](https://github.com/csu-cs/csci325-Fall25-Snake)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This project involved developing a full-stack web application as part of a three-person team for a fictional nonprofit hosting a 5k charity run. This website demonstrates my frontend and backend development skills, which are essential for cybersecurity. I worked alongside A'Myah Temple and Pablo Aguilar to finish this assignment. The website allows participants to register, log in, view race-day information, and access a private dashboard. It also includes an admin interface that can manage all registered runners. My main contributions to the project were developing admin management features, runner profiles, backend API improvements, and a teammate lookup function. I used CSS when working on the admin interface design.
+This was a semester-long group project where we recreated the classic Snake game using Java. I worked alongside Danielle Rodriguez, Jalyn Green, Jessica Gambino, and Teaundra Thompson. The game allows players to customize their snake, collect different fruits, avoid obstacles, and view their scores. My main contribution was developing the Background class, which displayed the game board, snake, and fruit while managing the boundaries of the playing area.
 
 ## How to run the program
 
-How to compile (if applicable) and run the project.
+To run the game, download the project from the GitHub repository and extract the files. Open Apache NetBeans, select File --> Open Project, and choose the CSCI325_Snake folder. Once the project loads, click Run Project to compile and launch the game.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The game includes a main menu, settings screen, gameplay area, and scoreboard. Players can change the snake's appearance, move using the arrow keys or WASD, and collect fruit to grow. The scoreboard displays previous results, scores, and causes of losing.
 
 ![Snake Homepage](images/Snake-Homepage.png)  
 Fig 1. Main menu of the Snake game.
