@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Ace Senior Project | CSCI 497,498,499](project1)
 
-![Ace Senior Project](images/Ace Program.png)
+![Ace Senior Project](images/Ace-Program.png)
 
 ---
 ### [Run for a Cause 5k Website | CSCI 334](project2)
