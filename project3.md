@@ -11,7 +11,7 @@ CIS Ubuntu Compliance Checker
 
 ## Project description
 
-This program is a Bash script that performs five security checks based on the CIS Ubuntu Linux 20.04 Benchmark. The script checks whether USB storage is disabled, AIDE and AppArmor are installed, whether the X Window System is installed, and whether automounting is disabled. Each check displays a True or Not True result without changing system settings.
+This program is a Bash script that performs five security checks based on the CIS Ubuntu Linux 20.04 Benchmark. The script checks whether USB storage is disabled, AIDE and AppArmor are installed, whether the X Window System is not installed, and whether automounting is disabled. Each check displays a True or Not True result without changing system settings.
 
 ## How to run the program
 
