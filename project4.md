@@ -1,9 +1,9 @@
 [Back to Portfolio](./)
 
-Run for a Cause 5k Website
+AirDrop File Transfer Application
 ===============
 
--   **Class:** User Interface Programming - CSCI 334
+-   **Class:** Applied Networking - CSCI 332
 -   **Grade:** A
 -   **Language(s):** JavaScript, CSS, C#
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
