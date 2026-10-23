@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Ace Senior Project Documentation | CSCI 497,498,499](project5)
+### [Ace Senior Project Documentation](project5)
 
 ![Ace Senior Project](images/Ace-Program.png)
 
