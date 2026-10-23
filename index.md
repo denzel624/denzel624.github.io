@@ -29,7 +29,7 @@ Programming Projects
 ---
 ### [AirDrop File Transfer Application | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![AirDrop File Transfer Application](images/ClientExecution.png)
 
 ---
 
