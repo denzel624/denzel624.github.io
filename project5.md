@@ -25,7 +25,7 @@ This page contains links to my documentation for the ACE-Cyber senior project I 
 
 ### [ACE Cyber Project Data Analysis & Synthesis](/pdf/ACE-Cyber-Project-Data-Analysis-&-Synthesis-TEMPLATE-v1.docx.pdf)
 
-### [ACE Cyber Project Data Acq&Sythentic Data Gen Report](/pdf/ACE_Cyber_Project_Data-Acq&Sythentic-Data-Gen-Report_Template-v1.docx.pdf)
+### [ACE Cyber Project Data Acqisition & Sythentic Data Gen Report](/pdf/ACE_Cyber_Project_Data-Acq&Sythentic-Data-Gen-Report_Template-v1.docx.pdf)
 
 ### [ACE Cyber Project Test Plan](/pdf/ACE-Cyber-Project-Test-Plan-Template-v1.docx.pdf)
 
