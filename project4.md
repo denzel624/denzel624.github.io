@@ -5,36 +5,27 @@ AirDrop File Transfer Application
 
 -   **Class:** Applied Networking - CSCI 332
 -   **Grade:** A
--   **Language(s):** JavaScript, CSS, C#
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Language(s):** C++
+-   **Source Code Repository:** [Applied Networking Final Project](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This project involved developing a full-stack web application as part of a three-person team for a fictional nonprofit hosting a 5k charity run. This website demonstrates my frontend and backend development skills, which are essential for cybersecurity. I worked alongside A'Myah Temple and Pablo Aguilar to finish this assignment. The website allows participants to register, log in, view race-day information, and access a private dashboard. It also includes an admin interface that can manage all registered runners. My main contributions to the project were developing admin management features, runner profiles, backend API improvements, and a teammate lookup function. I used CSS when working on the admin interface design.
+For our Applied Networking project, my partner and I built and configured a local area network (LAN). We created Ethernet cables, connected our computers to the network, and configured the tools needed for communication and file sharing. We experienced difficulties with the network setup, which required extensive troubleshooting. We also developed a C++ client-server application that allowed files to transfer between two computers over a network. Using Ubuntu, we tested the application and successfully demonstrated transferring an image file between the client and server.
 
 ## How to run the program
 
-How to compile (if applicable) and run the project.
+Download the client and server C++ source files from the GitHub repository. Compile both C++ files in Ubuntu. Run the server program first, followed by the client program. Enter the listening port, server IP address, and filename when prompted to begin the file transfer.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The application uses a command-line interface through the Ubuntu terminal. Users enter the connection information and filename to initiate a file transfer. The client will display messages confirming that data has been received, while the server displays the number of bytes and sends confirmation messages. Figure 1 shows the client receiving data, and Figure 2 shows the server processing the file transfer.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![Client Execution](images/ClientExecution.png)  
+Fig 1. Client receiving data from the server.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+![Server Execution](images/ServerExecution.png)  
+Fig 2. Server receiving data packets and sending confirmation.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
