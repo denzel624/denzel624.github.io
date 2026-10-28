@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:DLJefferson@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Ace Senior Project Documentation](project5)
