@@ -7,7 +7,7 @@ Run for a Cause 5k Website
 -   **Grade:** A
 -   **Language(s):** JavaScript, CSS, C#
 -   **Source Code Repository:** [WebApp Group Project](https://github.com/pablo-843/WebApp-group-project)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:DLJefferson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
