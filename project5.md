@@ -5,11 +5,11 @@ Ace Senior Project Documentation
 
 -   **Classes:** Senior Project - CSCI 497,498,499
 -   **Source Code Repository:** [Ace Senior Project Contextualized Threat Intelligence Prioritization](https://github.com/denzel624/ACE-Senior-Project)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:DLJefferson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-This page contains links to my documentation for the ACE-Cyber senior project I completed in collaboration with NIWC Atlantic. My research primarily focused on contextualized threat intelligence prioritization for Cyber Threat Intelligence (CTI) analysts. I developed a proof of concept that integrated MISP, Elasticsearch, Kibana, and Python to automate threat-intelligence prioritization into High, Medium, and Low categories. I also compared the automated process with manual analysis to evaluate improvements in efficiency. The following documentation covers my research hypothesis, literature review, research design, testbed setup, data acquisition, testing, and analysis. It also includes a white paper summarizing my entire research.
+This page contains links to my documentation for the ACE-Cyber senior project I completed in collaboration with NIWC Atlantic. My research focused on contextualized threat intelligence prioritization for Cyber Threat Intelligence (CTI) analysts. I developed a proof of concept using Elasticsearch, Kibana, Filebeat, and rule-based contextual scoring to classify security logs into High, Medium, and Low categories. I also compared the automated process with manual analysis to evaluate improvements in threat identification efficiency. The following documentation covers my research hypothesis, literature review, research design, testbed setup, data acquisition, testing, and analysis. It also includes a white paper summarizing my research.
 
 ## Documentation
 
