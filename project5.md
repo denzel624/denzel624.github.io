@@ -4,7 +4,7 @@ Ace Senior Project Documentation
 ===============
 
 -   **Classes:** Senior Project - CSCI 497,498,499
--   **Source Code Repository:** [Ace Senior Project Contextualized Threat Intelligence Prioritization](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Ace Senior Project Contextualized Threat Intelligence Prioritization](https://github.com/denzel624/ACE-Senior-Project)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
