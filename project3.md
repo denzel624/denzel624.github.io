@@ -7,7 +7,7 @@ CIS Ubuntu Compliance Checker
 -   **Grade:** A
 -   **Language(s):** Bash
 -   **Source Code Repository:** [CSCI 301 Code Repository](https://github.com/denzel624/CSCI-301-code-repository/tree/master/FinalProject)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:DLJefferson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
