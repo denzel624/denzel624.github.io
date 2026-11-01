@@ -11,7 +11,7 @@ AirDrop File Transfer Application
 
 ## Project description
 
-For our Applied Networking project, my partner Connor McCraw and I built and configured a local area network (LAN). We created Ethernet cables, connected our computers to the network, and configured the tools needed for communication and file sharing. We experienced difficulties with the network setup, which required extensive troubleshooting. We also developed a C++ client-server application that allowed files to transfer between two computers over a network using UDP. My primary responsibility was developing the client side, while Connor McCaw developed the server side. Using Ubuntu, we tested the application and successfully demonstrated transferring an image file between the client and server.
+For our Applied Networking project, my partner Conner McCraw and I built and configured a local area network (LAN). We created Ethernet cables, connected our computers to the network, and configured the tools needed for communication and file sharing. We experienced difficulties with the network setup, which required extensive troubleshooting. We also developed a C++ client-server application that allowed files to transfer between two computers over a network using UDP. My primary responsibility was developing the client side, while Connor McCaw developed the server side. Using Ubuntu, we tested the application and successfully demonstrated transferring an image file between the client and server.
 
 ## How to run the program
 
