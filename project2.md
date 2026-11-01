@@ -6,7 +6,7 @@ Java Snake Game
 -   **Class:** Object-Oriented Programming - CSCI 325
 -   **Grade:** A
 -   **Language(s):** Java
--   **Source Code Repository:** [Java Snake Game](https://github.com/csu-cs/csci325-Fall25-Snake)  
+-   **Source Code Repository:** [Java Snake Game](https://github.com/denzel624/csci325-Fall25-Snake)  
     (Please [email me](mailto:DLJefferson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
