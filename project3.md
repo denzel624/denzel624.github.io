@@ -6,7 +6,7 @@ CIS Ubuntu Compliance Checker
 -   **Class:** Survey of Scripting Languages - CSCI 301
 -   **Grade:** A
 -   **Language(s):** Bash
--   **Source Code Repository:** [CSCI 301 Code Repository](https://github.com/denzel624/CIS-Ubuntu-Compliance-Checker)  
+-   **Source Code Repository:** [CIS Ubuntu Compliance Checker](https://github.com/denzel624/CIS-Ubuntu-Compliance-Checker)  
     (Please [email me](mailto:DLJefferson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
