@@ -15,7 +15,11 @@ This project involved developing a full-stack web application as part of a three
 
 ## How to run the program
 
-To run the website, download the project from the GitHub repository and open it in Visual Studio Code. In the Frontend folder, run npm install followed by npm run dev. In the backend folder, run dotnet run.
+1. Download or clone the repository.
+2. Open the project in Visual Studio Code.
+3. Open a terminal in the Backend folder and run dotnet run.
+4. Open a separate terminal in the Frontend folder and run npm install followed by npm run dev.
+5. Open the URL displayed to access the website. 
 
 ## UI Design
 
