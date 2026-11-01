@@ -15,7 +15,11 @@ For our Applied Networking project, my partner Conner McCraw and I built and con
 
 ## How to run the program
 
-Download the client and server C++ source files from the GitHub repository. Compile both C++ files in Ubuntu. Run the server program first, followed by the client program. Enter the listening port, server IP address, and filename when prompted to begin the file transfer.
+1. Download or clone the repository.
+2. Open an Ubuntu terminal.
+3. Compile the client and server C++ source files.
+4. Run the server program first.
+5. Run the client program and enter the listening port, server IP address, and filename to start the transfer.
 
 ## UI Design
 
