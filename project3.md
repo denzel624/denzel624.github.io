@@ -15,7 +15,10 @@ This program is a Bash script that performs five security checks based on the CI
 
 ## How to run the program
 
-Download the Bash script from the GitHub repository link. Then open Windows PowerShell in administrator mode, launch Ubuntu using the wsl command, and navigate to the folder containing the script. Run the script using bash Final to automatically perform the 5 security checks and display the results.
+1. Download or clone the repository.
+2. Open an Ubuntu terminal.
+3. Navigate to the folder containing cis_compliance_check.sh.
+4. Run the script using bash cis_compliance_check.sh.
 
 ## UI Design
 
