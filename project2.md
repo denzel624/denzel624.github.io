@@ -15,7 +15,10 @@ This was a semester-long group project where we recreated the classic Snake game
 
 ## How to run the program
 
-To run the game, download the project from the GitHub repository and extract the files. Open Apache NetBeans, select File --> Open Project, and choose the CSCI325_Snake folder. Once the project loads, click Run Project to compile and launch the game.
+1. Download or clone the repository.
+2. Open Apache NetBeans.
+3. Select File --> Open Project and choose the CSCI325_Snake folder.
+4. Run the project to launch the game.
 
 ## UI Design
 
