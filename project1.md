@@ -6,7 +6,7 @@ Run for a Cause 5k Website
 -   **Class:** User Interface Programming - CSCI 334
 -   **Grade:** A
 -   **Language(s):** JavaScript, CSS, C#
--   **Source Code Repository:** [WebApp Group Project](https://github.com/pablo-843/WebApp-group-project)  
+-   **Source Code Repository:** [WebApp Group Project](https://github.com/denzel624/WebApp-group-project/tree/main)  
     (Please [email me](mailto:DLJefferson@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
