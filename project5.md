@@ -33,4 +33,6 @@ This page contains links to my documentation for the ACE-Cyber senior project I 
 
 ### [Whitepaper - Contextualized Threat Intelligence Prioritization for CTI Analysts](/pdf/ACE-Cyber-Applied-Research-Project-Whitepaper-Template-v1.docx.pdf)
 
+### [CSCI 499 Final Written Report](/pdf/CSCI_499_Report.pdf)
+
 [Back to Portfolio](./)
